@@ -13,7 +13,7 @@ app.get("/produtos/id", function(req,res){
     res.send("<h1>produto 1</h1>")
 })
 app.get("/about", function(req,res){
-    res.send("esse site foi desenvolvido por......")
+    res.send("Site desenvolvido para aula de nuvem")
 })
 
 
